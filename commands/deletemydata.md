@@ -4,10 +4,10 @@ The `/deletemydata` command permanently deletes all of your user data stored by 
 
 ## Usage
 ```
-/deletemydata [confirm: true]
+/deletemydata [confirm:true]
 ```
 
-The `--confirm` flag must be provided to confirm you want to delete your data.
+The `confirm` flag must be provided to confirm you want to delete your data.
 
 ## What it deletes
 
@@ -26,7 +26,7 @@ The `--confirm` flag must be provided to confirm you want to delete your data.
 
 Deleting user data:
 ```
-User: /deletemydata [confirm: true]
+User: /deletemydata [confirm:true]
 
 hyunGPT: Your data has been deleted successfully.
 ```

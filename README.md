@@ -30,8 +30,8 @@ Welcome to the official guide for using hyunGPT on Discord! This comprehensive d
 
 ## Configurations
 
-- [Personas](/configurations/personas.md)
-- [Settings](/configurations/settings.md)
+- [Sessions](/configurations/sessions.md)
+- [Webhooks](/configurations/webhooks.md)
 - And more!
 
 ## Troubleshooting

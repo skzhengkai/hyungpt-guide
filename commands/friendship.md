@@ -1,5 +1,5 @@
 # /friendship
-
+## ⚠ WARNING: THIS COMMAND IS NOT AVAILABLE ⚠
 The `/friendship` command allows you to view and manage your friendship with hyunGPT.
 
 ## Subcommands

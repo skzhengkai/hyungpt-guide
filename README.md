@@ -1,5 +1,8 @@
-# hyunGPT Guide
+# hyunGPT Guide is now at https://docs.hyungpt.app/
 
+----------------------------------------------------------------------------------------------------
+
+# hyunGPT Guide (old)
 Welcome to the official guide for using hyunGPT on Discord! This comprehensive documentation will help you fully utilize hyunGPT's advanced features and capabilities powered by GPT-4 and other AI models.
 
 ## Getting Started
